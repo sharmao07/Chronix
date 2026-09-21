@@ -1,0 +1,7 @@
+.DS_Store
+.history/
+Downloads/
+*.FCBak
+*.FCBak*
+*.kicad_prl
+*.lck
